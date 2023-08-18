@@ -1,0 +1,198 @@
+country,country_code,iso,designation
+Andorra,,,advanced_economy
+Australia,193,AUS,advanced_economy
+Austria,122,AUT,advanced_economy
+Belgium,124,BEL,advanced_economy
+Canada,156,CAN,advanced_economy
+Cyprus,423,CYP,advanced_economy
+Czech Republic,935,CZE,advanced_economy
+Denmark,128,DNK,advanced_economy
+Estonia,939,EST,advanced_economy
+Finland,172,FIN,advanced_economy
+France,132,FRA,advanced_economy
+Germany,134,DEU,advanced_economy
+Greece,174,GRC,advanced_economy
+Hong Kong SAR,532,HKG,advanced_economy
+Iceland,176,ISL,advanced_economy
+Ireland,178,IRL,advanced_economy
+Israel,436,ISR,advanced_economy
+Italy,136,ITA,advanced_economy
+Japan,158,JPN,advanced_economy
+Korea,542,KOR,advanced_economy
+Latvia,941,LVA,advanced_economy
+Lithuania,946,LTU,advanced_economy
+Luxembourg,137,LUX,advanced_economy
+Macao SAR,546,MAC,advanced_economy
+Malta,181,MLT,advanced_economy
+Netherlands,138,NLD,advanced_economy
+New Zealand,196,NZL,advanced_economy
+Norway,142,NOR,advanced_economy
+Portugal,182,PRT,advanced_economy
+Puerto Rico,359,PRI,advanced_economy
+San Marino,135,SMR,advanced_economy
+Singapore,576,SGP,advanced_economy
+Slovak Republic,936,SVK,advanced_economy
+Slovenia,961,SVN,advanced_economy
+Spain,184,ESP,advanced_economy
+Sweden,144,SWE,advanced_economy
+Switzerland,146,CHE,advanced_economy
+Taiwan Province of China,528,TWN,advanced_economy
+China,924,CHN,advanced_economy
+United Kingdom,112,GBR,advanced_economy
+United States,111,USA,advanced_economy
+Albania,914,ALB,emerging_mkt
+Algeria,612,DZA,emerging_mkt
+Angola,614,AGO,emerging_mkt
+Antigua and Barbuda,311,ATG,emerging_mkt
+Argentina,213,ARG,emerging_mkt
+Armenia,911,ARM,emerging_mkt
+Aruba,314,ABW,emerging_mkt
+Azerbaijan,912,AZE,emerging_mkt
+The Bahamas,313,BHS,emerging_mkt
+Bahrain,419,BHR,emerging_mkt
+Barbados,316,BRB,emerging_mkt
+Belarus,913,BLR,emerging_mkt
+Belize,339,BLZ,emerging_mkt
+Bolivia,218,BOL,emerging_mkt
+Bosnia and Herzegovina,963,BIH,emerging_mkt
+Botswana,616,BWA,emerging_mkt
+Brazil,223,BRA,emerging_mkt
+Brunei Darussalam,516,BRN,emerging_mkt
+Bulgaria,918,BGR,emerging_mkt
+Cabo Verde,624,CPV,emerging_mkt
+Chile,228,CHL,emerging_mkt
+China,924,CHN,emerging_mkt
+Colombia,233,COL,emerging_mkt
+Costa Rica,238,CRI,emerging_mkt
+Croatia,960,HRV,emerging_mkt
+Dominica,321,DMA,emerging_mkt
+Dominican Republic,243,DOM,emerging_mkt
+Ecuador,248,ECU,emerging_mkt
+Egypt,469,EGY,emerging_mkt
+El Salvador,253,SLV,emerging_mkt
+Equatorial Guinea,642,GNQ,emerging_mkt
+Eswatini,734,SWZ,emerging_mkt
+Fiji,819,FJI,emerging_mkt
+Gabon,646,GAB,emerging_mkt
+Georgia,915,GEO,emerging_mkt
+Grenada,328,GRD,emerging_mkt
+Guatemala,258,GTM,emerging_mkt
+Guyana,336,GUY,emerging_mkt
+Hungary,944,HUN,emerging_mkt
+India,534,IND,emerging_mkt
+Indonesia,536,IDN,emerging_mkt
+Islamic Republic of Iran,429,IRN,emerging_mkt
+Iraq,433,IRQ,emerging_mkt
+Jamaica,343,JAM,emerging_mkt
+Jordan,439,JOR,emerging_mkt
+Kazakhstan,916,KAZ,emerging_mkt
+Kosovo,967,UVK,emerging_mkt
+Kuwait,443,KWT,emerging_mkt
+Lebanon,446,LBN,emerging_mkt
+Libya,672,LBY,emerging_mkt
+Malaysia,548,MYS,emerging_mkt
+Maldives,556,MDV,emerging_mkt
+Marshall Islands,867,MHL,emerging_mkt
+Mauritius,684,MUS,emerging_mkt
+Mexico,273,MEX,emerging_mkt
+Micronesia,868,FSM,emerging_mkt
+Mongolia,948,MNG,emerging_mkt
+Montenegro,943,MNE,emerging_mkt
+Morocco,686,MAR,emerging_mkt
+Namibia,728,NAM,emerging_mkt
+Nauru,836,NRU,emerging_mkt
+North Macedonia,962,MKD,emerging_mkt
+Oman,449,OMN,emerging_mkt
+Pakistan,564,PAK,emerging_mkt
+Palau,565,PLW,emerging_mkt
+Panama,283,PAN,emerging_mkt
+Paraguay,288,PRY,emerging_mkt
+Peru,293,PER,emerging_mkt
+Philippines,566,PHL,emerging_mkt
+Poland,964,POL,emerging_mkt
+Qatar,453,QAT,emerging_mkt
+Romania,968,ROU,emerging_mkt
+Russia,922,RUS,emerging_mkt
+Samoa,862,WSM,emerging_mkt
+Saudi Arabia,456,SAU,emerging_mkt
+Serbia,942,SRB,emerging_mkt
+Seychelles,718,SYC,emerging_mkt
+South Africa,199,ZAF,emerging_mkt
+Sri Lanka,524,LKA,emerging_mkt
+St. Kitts and Nevis,361,KNA,emerging_mkt
+St. Lucia,362,LCA,emerging_mkt
+St. Vincent and the Grenadines,364,VCT,emerging_mkt
+Suriname,366,SUR,emerging_mkt
+Syria,463,SYR,emerging_mkt
+Thailand,578,THA,emerging_mkt
+Tonga,866,TON,emerging_mkt
+Trinidad and Tobago,369,TTO,emerging_mkt
+Tunisia,744,TUN,emerging_mkt
+Turkey,186,TUR,emerging_mkt
+Turkmenistan,925,TKM,emerging_mkt
+Tuvalu,869,TUV,emerging_mkt
+Ukraine,926,UKR,emerging_mkt
+United Arab Emirates,466,ARE,emerging_mkt
+Uruguay,298,URY,emerging_mkt
+Vanuatu,846,VUT,emerging_mkt
+Venezuela,299,VEN,emerging_mkt
+West Bank and Gaza,#N/A,#N/A,emerging_mkt
+Timor-Leste,537,TLS,emerging_mkt
+Togo,742,TGO,emerging_mkt
+Uganda,746,UGA,emerging_mkt
+Uzbekistan,927,UZB,emerging_mkt
+Vietnam,582,VNM,emerging_mkt
+Yemen,474,YEM,emerging_mkt
+Zambia,754,ZMB,emerging_mkt
+Zimbabwe,698,ZWE,emerging_mkt
+Afghanistan,512,AFG,low_income_developing
+Bangladesh,513,BGD,low_income_developing
+Benin,638,BEN,low_income_developing
+Bhutan,514,BTN,low_income_developing
+Burkina Faso,748,BFA,low_income_developing
+Burundi,618,BDI,low_income_developing
+Cambodia,522,KHM,low_income_developing
+Cameroon,622,CMR,low_income_developing
+Central African Republic,626,CAF,low_income_developing
+Chad,628,TCD,low_income_developing
+Comoros,632,COM,low_income_developing
+Democratic Republic of the Congo,636,COD,low_income_developing
+Republic of Congo,634,COG,low_income_developing
+Côte d'Ivoire,662,CIV,low_income_developing
+Djibouti,611,DJI,low_income_developing
+Eritrea,643,ERI,low_income_developing
+Ethiopia,644,ETH,low_income_developing
+The Gambia,648,GMB,low_income_developing
+Ghana,652,GHA,low_income_developing
+Guinea,656,GIN,low_income_developing
+Guinea-Bissau,654,GNB,low_income_developing
+Haiti,263,HTI,low_income_developing
+Honduras,268,HND,low_income_developing
+Kenya,664,KEN,low_income_developing
+Kiribati,826,KIR,low_income_developing
+Kyrgyz Republic,917,KGZ,low_income_developing
+Lao P.D.R.,544,LAO,low_income_developing
+Lesotho,666,LSO,low_income_developing
+Liberia,668,LBR,low_income_developing
+Madagascar,674,MDG,low_income_developing
+Malawi,676,MWI,low_income_developing
+Mali,678,MLI,low_income_developing
+Mauritania,682,MRT,low_income_developing
+Moldova,921,MDA,low_income_developing
+Mozambique,688,MOZ,low_income_developing
+Myanmar,518,MMR,low_income_developing
+Nepal,558,NPL,low_income_developing
+Nicaragua,278,NIC,low_income_developing
+Niger,692,NER,low_income_developing
+Nigeria,694,NGA,low_income_developing
+Papua New Guinea,853,PNG,low_income_developing
+Rwanda,714,RWA,low_income_developing
+São Tomé and Príncipe,716,STP,low_income_developing
+Senegal,722,SEN,low_income_developing
+Sierra Leone,724,SLE,low_income_developing
+Solomon Islands,813,SLB,low_income_developing
+Somalia,726,SOM,low_income_developing
+South Sudan,733,SSD,low_income_developing
+Sudan,732,SDN,low_income_developing
+Tajikistan,923,TJK,low_income_developing
+Tanzania,738,TZA,low_income_developing
